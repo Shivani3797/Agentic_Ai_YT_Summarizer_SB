@@ -61,5 +61,4 @@ Special thanks to **Krish Naik** for his videos on Crew AI, which helped me unde
 
 ## 📬 Connect
 If you have any questions, feel free to reach out!
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-🐦 [Twitter](https://twitter.com/yourhandle)
+🔗 [LinkedIn](https://www.linkedin.com/in/shivani-iiitb/)
